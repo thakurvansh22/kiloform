@@ -1,0 +1,6 @@
+{
+  "name": "KiloForm",
+  "description": "Free client-side photo, signature, and document resizer for Indian competitive exam and government job forms.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
